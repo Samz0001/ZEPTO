@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "391209750808",
+    "project_id": "zepto-4af58",
+    "storage_bucket": "zepto-4af58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391209750808:android:3c1f1eb4e9490697b4ce6d",
+        "android_client_info": {
+          "package_name": "com.zepto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391209750808-q3hm5h1onfu21toos38jkun3h74nu2qd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zepto",
+            "certificate_hash": "eeca1494c0b051fbb82c53a76912744607e96942"
+          }
+        },
+        {
+          "client_id": "391209750808-20fsgjla15i8bnh2kt7fol3qrmvpnhmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz71Sr8F78n5eEGR8aqWidDDkcJQhJvzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391209750808-20fsgjla15i8bnh2kt7fol3qrmvpnhmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
